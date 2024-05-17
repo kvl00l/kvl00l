@@ -25,7 +25,7 @@ A Graduate Student at Tunghai University undergoing a Global Master of Business 
         - Assist in the preparation of food items, including chopping, measuring, and mixing ingredients
         - Ensure that all food items are prepared to the highest standards and in accordance with recipes and food Safety guidelines 
         - Assist with food presentation and service, including plating dishes, restocking buffet stations, and serving food to customers
-        - Follow all food safety protocols, including proper hand washing,sanitation procedures, and food storage practices
+        - Follow all food safety protocols, including proper hand washing, sanitation procedures, and food storage practices
         - Communicate with the Head Chef and kitchen team to ensure smooth and efficient operations
         - Assist with ordering supplies and restocking as needed
 - Jabil, Taichung— QA/QC
@@ -37,7 +37,7 @@ A Graduate Student at Tunghai University undergoing a Global Master of Business 
     - JUL 2020 - SEP 2020
         - Greet guests and provide menus, offering recommendations and answering any questions they may have.
         - Serve food and drinks to guests, ensuring that all items are presented in an attractive and appealing manner.
-        - Maintain a clean and organized dining area, including clearing and resetting tables, refilling condiments, and ensuring that all guestshave the necessary utensils and condiments
+        - Maintain a clean and organized dining area, including clearing and resetting tables, refilling condiments, and ensuring that all guests have the necessary utensils and condiments
         - Respond to customer requests and complaints in a prompt and professional manner, resolving any issues to the best of your ability
         - Communicate with kitchen staff and other servers to ensure smooth and efficient operations
         - Follow all food safety protocols, including proper hand washing and sanitation procedures
