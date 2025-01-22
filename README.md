@@ -15,6 +15,14 @@ A Graduate Student at Tunghai University undergoing a Global Master of Business 
     - GPA 3.78 / 4.3
 
 # Work Experience
+- Roomfitters, Taichung — E-commerce Operations Assistant
+    - OCT 2024 - PRESENT
+        - List products on designated overseas e-commerce platforms accurately and efficiently
+        - Track and proactively report the progress of completed and pending tasks on a daily basis
+        - Ensure smooth and stable communication with supervisors and teams, providing regular work progress updates
+        - Complete assigned tasks within the scheduled time, maintaining a proactive and responsible attitude
+        - Collaborate effectively with team members, demonstrating patience, attention to detail, and a willingness to learn
+        - Address work-related challenges by analyzing issues logically and solving problems efficiently, with timely feedback to supervisors
 - Will and Shallent's English Center, Taichung — English Language Teacher
     - APR 2023 - OCT 2023
         - Plan and prepare effective English language lessons that align with the curriculum and meet the needs of elementary students.
