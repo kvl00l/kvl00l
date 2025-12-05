@@ -16,7 +16,7 @@ A Graduate Student at Tunghai University undergoing a Global Master of Business 
 
 # Work Experience
 - Roomfitters, Taichung — E-commerce Operations Assistant
-    - OCT 2024 - PRESENT
+    - OCT 2024 - NOV 2025
         - List products on designated overseas e-commerce platforms accurately and efficiently
         - Track and proactively report the progress of completed and pending tasks on a daily basis
         - Ensure smooth and stable communication with supervisors and teams, providing regular work progress updates
