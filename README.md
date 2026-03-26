@@ -1,14 +1,13 @@
 # Kevin Amadeus Wijaya 黃獻善
 
-Looking for Internship for Data Analyst
-
 # Introduction
-A Graduate Student at Tunghai University undergoing a Global Master of Business Administration(Global MBA) program. I'm a motivated and detail-oriented student interested in Data Analyst.
+A recent Global Master of Business Administration (Global MBA) graduate from Tunghai University. A motivated and detail-oriented professional seeking opportunities as a Data Analyst.
 
 # Education
 - Global Master of Business Administration, Master's Degree
     - Tunghai University, Taiwan
-    - FEB 2024 - PRESENT
+    - FEB 2024 - FEB 2026
+    - GPA 4.08 / 4.3
 - Sustainability Science and Management, Bachelor's Degree
     - Tunghai University, Taiwan
     - SEP 2019 - JUL 2023
@@ -16,7 +15,7 @@ A Graduate Student at Tunghai University undergoing a Global Master of Business 
 
 # Work Experience
 - Roomfitters, Taichung — E-commerce Operations Assistant
-    - OCT 2024 - NOV 2025
+    - OCT 2024 - FEB 2026
         - List products on designated overseas e-commerce platforms accurately and efficiently
         - Track and proactively report the progress of completed and pending tasks on a daily basis
         - Ensure smooth and stable communication with supervisors and teams, providing regular work progress updates
